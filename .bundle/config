@@ -1,0 +1,2 @@
+---
+BUNDLE_BUILD__RUBY2D: "--with-cflags=\\-std=c99\\"
